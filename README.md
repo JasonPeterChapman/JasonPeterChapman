@@ -1,8 +1,3 @@
-<!-- Profile Picture -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/188168224?v=4" alt="Profile Picture" width="150" style="border-radius:50%;" />
-</p>
-
 <h1 align="center">Hi, I'm Jason</h1>
 
 <h2 align="center">Junior Developer</h2>
