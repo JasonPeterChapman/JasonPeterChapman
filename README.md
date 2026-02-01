@@ -3,9 +3,9 @@
   <img src="https://avatars.githubusercontent.com/u/188168224?v=4" alt="Profile Picture" width="150" style="border-radius:50%;" />
 </p>
 
-<h1 align="center">Hi, I'm Emmanuel</h1>
+<h1 align="center">Hi, I'm Jason</h1>
 
-<h2 align="center">Frontend Developer</h2>
+<h2 align="center">Junior Developer</h2>
 
 ## About
 
@@ -15,7 +15,7 @@
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://ghchart.rshah.org/AAmnaAmnaa38" alt="GitHub Stats" />
+  <img src="https://ghchart.rshah.org/JasonPeterChapman" alt="GitHub Stats" />
 </p>
 
 ## 🛠 Skills & Tools
@@ -24,6 +24,8 @@
 <p>
   <img src="https://img.shields.io/badge/Git-2886AB?style=for-the-badge&logo=git&logoColor=White"/>
   <img src="https://img.shields.io/badge/GitHub-2886AB?style=for-the-badge&logo=github&logoColor=White"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
 ### Web Frameworks
@@ -46,7 +48,8 @@
     <img src=""/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Chapmanj2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jason-chapman-10a21023b/"/>
   </a>
 </p>
 
