@@ -44,8 +44,8 @@
 ## Connect With Me
 <p align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/Chapmanj2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    [LinkedIn](https://www.linkedin.com/in/jason-chapman-10a21023b/)
+    <img src="https://img.shields.io/badge/Chapmanj2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><br/>
+    https://www.linkedin.com/in/jason-chapman-10a21023b/
   </a>
 </p>
 
