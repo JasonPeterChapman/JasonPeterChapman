@@ -5,7 +5,7 @@
 ## About
 
 <p align="center">
-
+Currently a Junior Developer looking to broaden my skillset and break into the industry. Studied Computer Science at Reigate School & Reigate College, as well as Information Technology with a Distinction.
 </p>
 
 ## GitHub Stats
